@@ -1,0 +1,15 @@
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.AssemblyReference.cache
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MainWindow.g.cs
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\App.g.cs
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MainWindow.baml
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MatchGame.g.resources
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+C:\Users\flyin\Source\Repos\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
